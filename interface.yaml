@@ -1,0 +1,3 @@
+name: coredns
+summary: Interface used to communicate between CoreDNS charm and Charmed Kubernetes components.
+maintainer: '"Dominik Fleischmann" <dominik.fleischmann@canonical.com'
